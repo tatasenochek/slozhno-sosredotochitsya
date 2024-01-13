@@ -42,11 +42,11 @@
 }
 
 .theme_light .header__theme-menu-button_active {
-  border: 1px solid rgba(50, 49, 45);
+  outline: 1px solid rgba(50, 49, 45);
 }
 
 .theme_light .header__theme-menu-button:hover {
-  border: 1px solid rgba(50, 49, 45, 0.4);
+  outline: 1px solid rgba(50, 49, 45, 0.4);
 }
 
 .theme_light .header__theme-menu-button:active {
