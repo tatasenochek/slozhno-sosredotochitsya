@@ -1,7 +1,10 @@
 .page.theme_dark {
   --bg-image: url(../images/cover-image-dark.png);
-  --accent-color: #ff0070;
+  --title-color: #db00ff;
+  --subtitle-color: #000028;
   --bg-color: #000028;
   --text-color: #f1b2ce;
-  --title-color: #db00ff;
+  --accent-color: #ff0070;
+  --decor-text: #ff0070;
+  --semitransparent: rgba(255, 0, 112, 0.40);
 }
