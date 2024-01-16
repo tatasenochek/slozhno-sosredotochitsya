@@ -212,7 +212,6 @@
 }
 
 .image__title {
-  color: var(--decor-text);
   margin-block-end: var(--padding-bottom);
   color: var(--subtitle-color);
 }
