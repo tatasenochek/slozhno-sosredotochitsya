@@ -7,6 +7,7 @@
   --accent-color: #353430;
   --decor-text: #ff8dcb;
   --semitransparent: rgba(12, 12, 10, 0.4);
+
 }
 
 @media (prefers-color-scheme: light) {
@@ -24,4 +25,8 @@
   .decorated-text {
     display: none;
   }
+}
+
+.theme_light .decorated-text {
+  display: none;
 }

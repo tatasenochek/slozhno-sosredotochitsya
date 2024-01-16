@@ -8,3 +8,7 @@
   --decor-text: #ff0070;
   --semitransparent: rgba(255, 0, 112, 0.40);
 }
+
+.theme_dark .decorated-text {
+  display: block;
+}
